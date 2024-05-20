@@ -1,0 +1,7 @@
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.AssemblyInfoInputs.cache
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.AssemblyInfo.cs
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.csproj.CoreCompileInputs.cache
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.RazorAssemblyInfo.cache
+/Applications/UASRPL/CryptoSolution/MessageCrypterWebApp/obj/Debug/net6.0/MessageCrypterWebApp.RazorAssemblyInfo.cs

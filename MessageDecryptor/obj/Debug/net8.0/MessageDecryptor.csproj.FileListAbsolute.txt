@@ -1,0 +1,11 @@
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/bin/Debug/net8.0/MessageDecryptor.deps.json
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/bin/Debug/net8.0/MessageDecryptor.dll
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/bin/Debug/net8.0/MessageDecryptor.pdb
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/MessageDecryptor.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/MessageDecryptor.AssemblyInfoInputs.cache
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/MessageDecryptor.AssemblyInfo.cs
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/MessageDecryptor.csproj.CoreCompileInputs.cache
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/MessageDecryptor.dll
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/refint/MessageDecryptor.dll
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/MessageDecryptor.pdb
+/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/Debug/net8.0/ref/MessageDecryptor.dll

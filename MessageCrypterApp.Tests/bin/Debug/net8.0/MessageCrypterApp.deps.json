@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MessageCrypterApp/1.0.0": {
+        "dependencies": {
+          "MessageDecryptor": "1.0.0",
+          "MessageEncryptor": "1.0.0"
+        },
+        "runtime": {
+          "MessageCrypterApp.dll": {}
+        }
+      },
+      "MessageDecryptor/1.0.0": {
+        "runtime": {
+          "MessageDecryptor.dll": {}
+        }
+      },
+      "MessageEncryptor/1.0.0": {
+        "runtime": {
+          "MessageEncryptor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageCrypterApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessageDecryptor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessageEncryptor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

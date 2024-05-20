@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "/Applications/UASRPL/CryptoSolution/MessageCrypterApp.Tests/MessageCrypterApp.Tests.csproj": {}
+  },
+  "projects": {
+    "/Applications/UASRPL/CryptoSolution/MessageCrypterApp.Tests/MessageCrypterApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp.Tests/MessageCrypterApp.Tests.csproj",
+        "projectName": "MessageCrypterApp.Tests",
+        "projectPath": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp.Tests/MessageCrypterApp.Tests.csproj",
+        "packagesPath": "/Users/virtand/.nuget/packages/",
+        "outputPath": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/virtand/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Applications/UASRPL/CryptoSolution/MessageCrypterApp/MessageCrypterApp.csproj": {
+                "projectPath": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp/MessageCrypterApp.csproj"
+              },
+              "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj": {
+                "projectPath": "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj"
+              },
+              "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj": {
+                "projectPath": "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Applications/UASRPL/CryptoSolution/MessageCrypterApp/MessageCrypterApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp/MessageCrypterApp.csproj",
+        "projectName": "MessageCrypterApp",
+        "projectPath": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp/MessageCrypterApp.csproj",
+        "packagesPath": "/Users/virtand/.nuget/packages/",
+        "outputPath": "/Applications/UASRPL/CryptoSolution/MessageCrypterApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/virtand/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj": {
+                "projectPath": "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj"
+              },
+              "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj": {
+                "projectPath": "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj",
+        "projectName": "MessageDecryptor",
+        "projectPath": "/Applications/UASRPL/CryptoSolution/MessageDecryptor/MessageDecryptor.csproj",
+        "packagesPath": "/Users/virtand/.nuget/packages/",
+        "outputPath": "/Applications/UASRPL/CryptoSolution/MessageDecryptor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/virtand/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj",
+        "projectName": "MessageEncryptor",
+        "projectPath": "/Applications/UASRPL/CryptoSolution/MessageEncryptor/MessageEncryptor.csproj",
+        "packagesPath": "/Users/virtand/.nuget/packages/",
+        "outputPath": "/Applications/UASRPL/CryptoSolution/MessageEncryptor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/virtand/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

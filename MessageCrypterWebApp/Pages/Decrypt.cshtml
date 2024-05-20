@@ -1,0 +1,13 @@
+@page
+@model MessageCrypterApp.Pages.DecryptModel
+
+<form method="post">
+    <label for="messageToDecrypt">Enter the message to decrypt:</label><br />
+    <input type="text" id="messageToDecrypt" name="messageToDecrypt" /><br />
+    <button type="submit">Decrypt</button>
+</form>
+
+@if (Model.DecryptedMessage != null)
+{
+    <p>Decrypted message: @Model.DecryptedMessage</p>
+}

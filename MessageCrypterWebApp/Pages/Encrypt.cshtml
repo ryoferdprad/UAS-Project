@@ -1,0 +1,13 @@
+@page
+@model MessageCrypterApp.Pages.EncryptModel
+
+<form method="post">
+    <label for="messageToEncrypt">Enter the message to encrypt:</label><br />
+    <input type="text" id="messageToEncrypt" name="messageToEncrypt" /><br />
+    <button type="submit">Encrypt</button>
+</form>
+
+@if (Model.EncryptedMessage != null)
+{
+    <p>Encrypted message: @Model.EncryptedMessage</p>
+}
